@@ -1,6 +1,6 @@
-# Random-Ball
+# Bouncing Ball
 
-Link:  https://gurunath-mca-23.github.io/Random-Ball/
+demo:  https://gurunath-mca-23.github.io/Random-Ball/
 
 # Project Description: 
 
